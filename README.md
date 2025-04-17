@@ -1,2 +1,2 @@
-# rock-paper-scissors
-a simple javascript game, rock paper scissors
+# Rock-Paper-Scissors
+A simple javascript game to practice vanilla javascript with simple css. 
