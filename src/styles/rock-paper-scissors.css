@@ -1,0 +1,48 @@
+
+body{
+    background-color: darkslategray;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+.title {
+    font-weight: 800;
+    font-size: 60px;
+    text-align: center;
+}
+
+.subtitle{
+    text-align: center;
+    font-style: italic;
+}
+
+button {
+    background-color: #04AA6D; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 30px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer; 
+}
+
+.buttons {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+.output {
+    display: flex;
+    justify-content: center;
+}
+
+.reset-div {
+    display: flex;
+    justify-content: center;
+    button {
+        background-color: white;
+        color: black
+    }
+}
